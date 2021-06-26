@@ -26,19 +26,19 @@ O Cypress Learning Checklist é uma lista com comandos do Cypress organizados po
 
 ### Comandos ⭐️⭐️⭐️
 
-- ⭐️⭐️⭐️ click
-- ⭐️⭐️⭐️ contains
-- ⭐️⭐️⭐️ get
-- ⭐️⭐️⭐️ intercept
-- ⭐️⭐️⭐️ log
-- ⭐️⭐️⭐️ pause
-- ⭐️⭐️⭐️ request
-- ⭐️⭐️⭐️ screenshot
-- ⭐️⭐️⭐️ should
-- ⭐️⭐️⭐️ then
-- ⭐️⭐️⭐️ type
-- ⭐️⭐️⭐️ visit
-- ⭐️⭐️⭐️ wait
+- ⭐️⭐️⭐️ <a href="https://docs.cypress.io/api/commands/click">click</a>
+- ⭐️⭐️⭐️ <a href="https://docs.cypress.io/api/commands/contains">contains</a>
+- ⭐️⭐️⭐️ <a href="https://docs.cypress.io/api/commands/get">get</a>
+- ⭐️⭐️⭐️ <a href="https://docs.cypress.io/api/commands/intercept">intercept</a>
+- ⭐️⭐️⭐️ <a href="https://docs.cypress.io/api/commands/log">log</a>
+- ⭐️⭐️⭐️ <a href="https://docs.cypress.io/api/commands/pause">pause</a>
+- ⭐️⭐️⭐️ <a href="https://docs.cypress.io/api/commands/request">request</a>
+- ⭐️⭐️⭐️ <a href="https://docs.cypress.io/api/commands/screenshot">screenshot</a>
+- ⭐️⭐️⭐️ <a href="https://docs.cypress.io/api/commands/should">should</a>
+- ⭐️⭐️⭐️ <a href="https://docs.cypress.io/api/commands/then">then</a>
+- ⭐️⭐️⭐️ <a href="https://docs.cypress.io/api/commands/type">type</a>
+- ⭐️⭐️⭐️ <a href="https://docs.cypress.io/api/commands/visit">visit</a>
+- ⭐️⭐️⭐️ <a href="https://docs.cypress.io/api/commands/wait">wait</a>
 
 ### Comandos ⭐️⭐️
 
